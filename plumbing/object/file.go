@@ -99,7 +99,7 @@ func (iter *FileIter) Next() (*File, error) {
 
 		blob, err := GetBlob(iter.s, entry.Hash)
 		if err != nil {
-			return NewFile(name, entry.Mode, &Blob{}), nil
+			return NewFile(name, entry.Mode, &Blob{}), err
 		}
 
 		return NewFile(name, entry.Mode, blob), nil
