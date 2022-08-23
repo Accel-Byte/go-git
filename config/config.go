@@ -13,8 +13,8 @@ import (
 	"strconv"
 
 	"github.com/go-git/go-billy/v5/osfs"
-	"github.com/Accel-Byte/go-git/v5/internal/url"
-	format "github.com/Accel-Byte/go-git/v5/plumbing/format/config"
+	"github.com/Accel-Byte/go-git/v6/internal/url"
+	format "github.com/Accel-Byte/go-git/v6/plumbing/format/config"
 )
 
 const (

@@ -1,6 +1,6 @@
 package cache
 
-import "github.com/Accel-Byte/go-git/v5/plumbing"
+import "github.com/Accel-Byte/go-git/v6/plumbing"
 
 const (
 	Byte FileSize = 1 << (iota * 10)

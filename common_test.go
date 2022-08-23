@@ -4,11 +4,11 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing"
-	"github.com/Accel-Byte/go-git/v5/plumbing/cache"
-	"github.com/Accel-Byte/go-git/v5/plumbing/format/packfile"
-	"github.com/Accel-Byte/go-git/v5/storage/filesystem"
-	"github.com/Accel-Byte/go-git/v5/storage/memory"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
+	"github.com/Accel-Byte/go-git/v6/plumbing/cache"
+	"github.com/Accel-Byte/go-git/v6/plumbing/format/packfile"
+	"github.com/Accel-Byte/go-git/v6/storage/filesystem"
+	"github.com/Accel-Byte/go-git/v6/storage/memory"
 
 	"github.com/go-git/go-billy/v5"
 	"github.com/go-git/go-billy/v5/memfs"

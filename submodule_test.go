@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
 
 	fixtures "github.com/go-git/go-git-fixtures/v4"
 	. "gopkg.in/check.v1"

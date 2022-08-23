@@ -9,9 +9,9 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing"
-	"github.com/Accel-Byte/go-git/v5/plumbing/object"
-	"github.com/Accel-Byte/go-git/v5/utils/diff"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
+	"github.com/Accel-Byte/go-git/v6/plumbing/object"
+	"github.com/Accel-Byte/go-git/v6/utils/diff"
 )
 
 // BlameResult represents the result of a Blame operation.

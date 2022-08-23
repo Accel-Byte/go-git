@@ -1,6 +1,6 @@
 package diff
 
-import "github.com/Accel-Byte/go-git/v5/plumbing/color"
+import "github.com/Accel-Byte/go-git/v6/plumbing/color"
 
 // A ColorKey is a key into a ColorConfig map and also equal to the key in the
 // diff.color subsection of the config. See

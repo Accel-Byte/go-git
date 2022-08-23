@@ -8,10 +8,10 @@ import (
 	"github.com/go-git/go-billy/v5/osfs"
 	"github.com/go-git/go-billy/v5/util"
 	fixtures "github.com/go-git/go-git-fixtures/v4"
-	"github.com/Accel-Byte/go-git/v5"
-	"github.com/Accel-Byte/go-git/v5/plumbing"
-	"github.com/Accel-Byte/go-git/v5/plumbing/format/packfile"
-	"github.com/Accel-Byte/go-git/v5/plumbing/storer"
+	"github.com/Accel-Byte/go-git/v6"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
+	"github.com/Accel-Byte/go-git/v6/plumbing/format/packfile"
+	"github.com/Accel-Byte/go-git/v6/plumbing/storer"
 	. "gopkg.in/check.v1"
 )
 

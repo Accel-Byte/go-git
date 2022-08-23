@@ -6,10 +6,10 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing"
-	"github.com/Accel-Byte/go-git/v5/plumbing/filemode"
-	"github.com/Accel-Byte/go-git/v5/utils/ioutil"
-	"github.com/Accel-Byte/go-git/v5/utils/merkletrie"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
+	"github.com/Accel-Byte/go-git/v6/plumbing/filemode"
+	"github.com/Accel-Byte/go-git/v6/utils/ioutil"
+	"github.com/Accel-Byte/go-git/v6/utils/merkletrie"
 )
 
 // DetectRenames detects the renames in the given changes on two trees with

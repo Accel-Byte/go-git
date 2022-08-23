@@ -6,7 +6,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
 )
 
 var (

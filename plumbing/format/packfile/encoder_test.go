@@ -5,9 +5,9 @@ import (
 	"io"
 	stdioutil "io/ioutil"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing"
-	"github.com/Accel-Byte/go-git/v5/plumbing/format/idxfile"
-	"github.com/Accel-Byte/go-git/v5/storage/memory"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
+	"github.com/Accel-Byte/go-git/v6/plumbing/format/idxfile"
+	"github.com/Accel-Byte/go-git/v6/storage/memory"
 
 	"github.com/go-git/go-billy/v5/memfs"
 	fixtures "github.com/go-git/go-git-fixtures/v4"

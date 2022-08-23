@@ -4,10 +4,10 @@ import (
 	"io"
 
 	billy "github.com/go-git/go-billy/v5"
-	"github.com/Accel-Byte/go-git/v5/plumbing"
-	"github.com/Accel-Byte/go-git/v5/plumbing/cache"
-	"github.com/Accel-Byte/go-git/v5/plumbing/format/idxfile"
-	"github.com/Accel-Byte/go-git/v5/utils/ioutil"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
+	"github.com/Accel-Byte/go-git/v6/plumbing/cache"
+	"github.com/Accel-Byte/go-git/v6/plumbing/format/idxfile"
+	"github.com/Accel-Byte/go-git/v6/utils/ioutil"
 )
 
 // FSObject is an object from the packfile on the filesystem.

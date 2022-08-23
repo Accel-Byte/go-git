@@ -5,10 +5,10 @@ import (
 	"io"
 	"strings"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing/filemode"
-	"github.com/Accel-Byte/go-git/v5/plumbing/storer"
-	"github.com/Accel-Byte/go-git/v5/utils/binary"
-	"github.com/Accel-Byte/go-git/v5/utils/ioutil"
+	"github.com/Accel-Byte/go-git/v6/plumbing/filemode"
+	"github.com/Accel-Byte/go-git/v6/plumbing/storer"
+	"github.com/Accel-Byte/go-git/v6/utils/binary"
+	"github.com/Accel-Byte/go-git/v6/utils/ioutil"
 )
 
 // File represents git file objects.

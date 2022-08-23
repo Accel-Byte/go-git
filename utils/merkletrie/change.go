@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/Accel-Byte/go-git/v5/utils/merkletrie/noder"
+	"github.com/Accel-Byte/go-git/v6/utils/merkletrie/noder"
 )
 
 // Action values represent the kind of things a Change can represent:

@@ -7,11 +7,11 @@ import (
 	"os"
 	"time"
 
-	"github.com/Accel-Byte/go-git/v5"
-	. "github.com/Accel-Byte/go-git/v5/_examples"
-	"github.com/Accel-Byte/go-git/v5/plumbing/transport/client"
-	githttp "github.com/Accel-Byte/go-git/v5/plumbing/transport/http"
-	"github.com/Accel-Byte/go-git/v5/storage/memory"
+	"github.com/Accel-Byte/go-git/v6"
+	. "github.com/Accel-Byte/go-git/v6/_examples"
+	"github.com/Accel-Byte/go-git/v6/plumbing/transport/client"
+	githttp "github.com/Accel-Byte/go-git/v6/plumbing/transport/http"
+	"github.com/Accel-Byte/go-git/v6/storage/memory"
 )
 
 // Here is an example to configure http client according to our own needs.

@@ -4,9 +4,9 @@ import (
 	"os"
 
 	"github.com/go-git/go-billy/v5/util"
-	"github.com/Accel-Byte/go-git/v5/config"
-	"github.com/Accel-Byte/go-git/v5/plumbing"
-	"github.com/Accel-Byte/go-git/v5/plumbing/object"
+	"github.com/Accel-Byte/go-git/v6/config"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
+	"github.com/Accel-Byte/go-git/v6/plumbing/object"
 	. "gopkg.in/check.v1"
 )
 

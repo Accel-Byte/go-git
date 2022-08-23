@@ -4,8 +4,8 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing"
-	format "github.com/Accel-Byte/go-git/v5/plumbing/format/config"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
+	format "github.com/Accel-Byte/go-git/v6/plumbing/format/config"
 )
 
 var (

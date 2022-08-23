@@ -15,12 +15,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing/format/pktline"
-	"github.com/Accel-Byte/go-git/v5/plumbing/protocol/packp"
-	"github.com/Accel-Byte/go-git/v5/plumbing/protocol/packp/capability"
-	"github.com/Accel-Byte/go-git/v5/plumbing/protocol/packp/sideband"
-	"github.com/Accel-Byte/go-git/v5/plumbing/transport"
-	"github.com/Accel-Byte/go-git/v5/utils/ioutil"
+	"github.com/Accel-Byte/go-git/v6/plumbing/format/pktline"
+	"github.com/Accel-Byte/go-git/v6/plumbing/protocol/packp"
+	"github.com/Accel-Byte/go-git/v6/plumbing/protocol/packp/capability"
+	"github.com/Accel-Byte/go-git/v6/plumbing/protocol/packp/sideband"
+	"github.com/Accel-Byte/go-git/v6/plumbing/transport"
+	"github.com/Accel-Byte/go-git/v6/utils/ioutil"
 )
 
 const (

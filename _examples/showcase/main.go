@@ -5,10 +5,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Accel-Byte/go-git/v5"
-	"github.com/Accel-Byte/go-git/v5/plumbing/object"
+	"github.com/Accel-Byte/go-git/v6"
+	"github.com/Accel-Byte/go-git/v6/plumbing/object"
 
-	. "github.com/Accel-Byte/go-git/v5/_examples"
+	. "github.com/Accel-Byte/go-git/v6/_examples"
 )
 
 // Example of an specific use case:

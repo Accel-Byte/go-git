@@ -1,9 +1,9 @@
 package transactional
 
 import (
-	"github.com/Accel-Byte/go-git/v5/plumbing"
-	"github.com/Accel-Byte/go-git/v5/plumbing/storer"
-	"github.com/Accel-Byte/go-git/v5/storage"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
+	"github.com/Accel-Byte/go-git/v6/plumbing/storer"
+	"github.com/Accel-Byte/go-git/v6/storage"
 )
 
 // ReferenceStorage implements the storer.ReferenceStorage for the transactional package.

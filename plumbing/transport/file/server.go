@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing/transport"
-	"github.com/Accel-Byte/go-git/v5/plumbing/transport/internal/common"
-	"github.com/Accel-Byte/go-git/v5/plumbing/transport/server"
-	"github.com/Accel-Byte/go-git/v5/utils/ioutil"
+	"github.com/Accel-Byte/go-git/v6/plumbing/transport"
+	"github.com/Accel-Byte/go-git/v6/plumbing/transport/internal/common"
+	"github.com/Accel-Byte/go-git/v6/plumbing/transport/server"
+	"github.com/Accel-Byte/go-git/v6/utils/ioutil"
 )
 
 // ServeUploadPack serves a git-upload-pack request using standard output, input

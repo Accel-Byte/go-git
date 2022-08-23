@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/Accel-Byte/go-git/v5/utils/merkletrie/noder"
+	"github.com/Accel-Byte/go-git/v6/utils/merkletrie/noder"
 )
 
 // Dir values implement directory-like noders.

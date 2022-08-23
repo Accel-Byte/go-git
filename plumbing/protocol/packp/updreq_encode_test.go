@@ -3,9 +3,9 @@ package packp
 import (
 	"bytes"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing"
-	"github.com/Accel-Byte/go-git/v5/plumbing/format/pktline"
-	"github.com/Accel-Byte/go-git/v5/plumbing/protocol/packp/capability"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
+	"github.com/Accel-Byte/go-git/v6/plumbing/format/pktline"
+	"github.com/Accel-Byte/go-git/v6/plumbing/protocol/packp/capability"
 
 	"io/ioutil"
 

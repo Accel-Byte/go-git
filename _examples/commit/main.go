@@ -7,9 +7,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/Accel-Byte/go-git/v5"
-	. "github.com/Accel-Byte/go-git/v5/_examples"
-	"github.com/Accel-Byte/go-git/v5/plumbing/object"
+	"github.com/Accel-Byte/go-git/v6"
+	. "github.com/Accel-Byte/go-git/v6/_examples"
+	"github.com/Accel-Byte/go-git/v6/plumbing/object"
 )
 
 // Basic example of how to commit changes to the current branch to an existing

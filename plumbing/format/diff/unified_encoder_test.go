@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing"
-	"github.com/Accel-Byte/go-git/v5/plumbing/color"
-	"github.com/Accel-Byte/go-git/v5/plumbing/filemode"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
+	"github.com/Accel-Byte/go-git/v6/plumbing/color"
+	"github.com/Accel-Byte/go-git/v6/plumbing/filemode"
 
 	. "gopkg.in/check.v1"
 )

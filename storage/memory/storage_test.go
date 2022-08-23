@@ -3,7 +3,7 @@ package memory
 import (
 	"testing"
 
-	"github.com/Accel-Byte/go-git/v5/storage/test"
+	"github.com/Accel-Byte/go-git/v6/storage/test"
 	. "gopkg.in/check.v1"
 )
 

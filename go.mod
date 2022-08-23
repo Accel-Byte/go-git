@@ -1,4 +1,4 @@
-module github.com/Accel-Byte/go-git/v5
+module github.com/Accel-Byte/go-git/v6
 
 go 1.19
 

@@ -3,9 +3,9 @@ package filesystem
 import (
 	"testing"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing/cache"
-	"github.com/Accel-Byte/go-git/v5/plumbing/storer"
-	"github.com/Accel-Byte/go-git/v5/storage/test"
+	"github.com/Accel-Byte/go-git/v6/plumbing/cache"
+	"github.com/Accel-Byte/go-git/v6/plumbing/storer"
+	"github.com/Accel-Byte/go-git/v6/storage/test"
 
 	"github.com/go-git/go-billy/v5"
 	"github.com/go-git/go-billy/v5/memfs"

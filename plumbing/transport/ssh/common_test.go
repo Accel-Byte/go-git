@@ -3,7 +3,7 @@ package ssh
 import (
 	"testing"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing/transport"
+	"github.com/Accel-Byte/go-git/v6/plumbing/transport"
 
 	"github.com/kevinburke/ssh_config"
 	"golang.org/x/crypto/ssh"

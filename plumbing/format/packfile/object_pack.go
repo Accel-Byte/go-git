@@ -1,7 +1,7 @@
 package packfile
 
 import (
-	"github.com/Accel-Byte/go-git/v5/plumbing"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
 )
 
 // ObjectToPack is a representation of an object that is going to be into a

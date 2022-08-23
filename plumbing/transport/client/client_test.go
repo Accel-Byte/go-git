@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing/transport"
+	"github.com/Accel-Byte/go-git/v6/plumbing/transport"
 
 	. "gopkg.in/check.v1"
 )

@@ -4,9 +4,9 @@ import (
 	"io"
 	"time"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing"
-	"github.com/Accel-Byte/go-git/v5/plumbing/object"
-	"github.com/Accel-Byte/go-git/v5/plumbing/storer"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
+	"github.com/Accel-Byte/go-git/v6/plumbing/object"
+	"github.com/Accel-Byte/go-git/v6/plumbing/storer"
 )
 
 // CommitNode is generic interface encapsulating a lightweight commit object retrieved

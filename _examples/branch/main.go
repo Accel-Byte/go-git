@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 
-	"github.com/Accel-Byte/go-git/v5"
-	. "github.com/Accel-Byte/go-git/v5/_examples"
-	"github.com/Accel-Byte/go-git/v5/plumbing"
+	"github.com/Accel-Byte/go-git/v6"
+	. "github.com/Accel-Byte/go-git/v6/_examples"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
 )
 
 // An example of how to create and remove branches or any other kind of reference.

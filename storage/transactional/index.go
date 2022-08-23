@@ -1,8 +1,8 @@
 package transactional
 
 import (
-	"github.com/Accel-Byte/go-git/v5/plumbing/format/index"
-	"github.com/Accel-Byte/go-git/v5/plumbing/storer"
+	"github.com/Accel-Byte/go-git/v6/plumbing/format/index"
+	"github.com/Accel-Byte/go-git/v6/plumbing/storer"
 )
 
 // IndexStorage implements the storer.IndexStorage for the transactional package.

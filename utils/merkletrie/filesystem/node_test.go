@@ -7,9 +7,9 @@ import (
 	"path"
 	"testing"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing"
-	"github.com/Accel-Byte/go-git/v5/utils/merkletrie"
-	"github.com/Accel-Byte/go-git/v5/utils/merkletrie/noder"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
+	"github.com/Accel-Byte/go-git/v6/utils/merkletrie"
+	"github.com/Accel-Byte/go-git/v6/utils/merkletrie/noder"
 
 	"github.com/go-git/go-billy/v5"
 	"github.com/go-git/go-billy/v5/memfs"

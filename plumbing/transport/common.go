@@ -22,10 +22,10 @@ import (
 	"strconv"
 	"strings"
 
-	giturl "github.com/Accel-Byte/go-git/v5/internal/url"
-	"github.com/Accel-Byte/go-git/v5/plumbing"
-	"github.com/Accel-Byte/go-git/v5/plumbing/protocol/packp"
-	"github.com/Accel-Byte/go-git/v5/plumbing/protocol/packp/capability"
+	giturl "github.com/Accel-Byte/go-git/v6/internal/url"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
+	"github.com/Accel-Byte/go-git/v6/plumbing/protocol/packp"
+	"github.com/Accel-Byte/go-git/v6/plumbing/protocol/packp/capability"
 )
 
 var (

@@ -4,9 +4,9 @@ import (
 	"math"
 	"time"
 
-	"github.com/Accel-Byte/go-git/v5/plumbing"
-	"github.com/Accel-Byte/go-git/v5/plumbing/object"
-	"github.com/Accel-Byte/go-git/v5/plumbing/storer"
+	"github.com/Accel-Byte/go-git/v6/plumbing"
+	"github.com/Accel-Byte/go-git/v6/plumbing/object"
+	"github.com/Accel-Byte/go-git/v6/plumbing/storer"
 )
 
 // objectCommitNode is a representation of Commit as presented in the GIT object format.
